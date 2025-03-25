@@ -4,7 +4,7 @@ const Footer = () => {
   return (
     <footer
       style={{
-        backgroundImage: "url('/assets/grad.png')", // todo: figma gradient waali img
+        backgroundImage: "url('/assets/grad.png')",
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
